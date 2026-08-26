@@ -12,6 +12,7 @@
 <img src="https://img.shields.io/badge/PyTorch-2.1-red?logo=pytorch&logoColor=white" alt="PyTorch">
 <img src="https://img.shields.io/badge/Lightning-2.0-purple?logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning">
 <a href="https://github.com/MeaFew/foresight/actions"><img src="https://github.com/MeaFew/foresight/workflows/CI/badge.svg" alt="CI"></a>
+<a href="https://meafew.github.io/foresight/"><img src="https://img.shields.io/badge/pages-live-blue?logo=githubpages&logoColor=white" alt="GitHub Pages"></a>
 
 </div>
 
