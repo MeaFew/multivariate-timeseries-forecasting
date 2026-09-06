@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/PyTorch-2.1-red?logo=pytorch&logoColor=white" alt="PyTorch">
 <img src="https://img.shields.io/badge/Lightning-2.0-purple?logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning">
-<a href="https://github.com/MeaFew/foresight/actions"><img src="https://github.com/MeaFew/foresight/workflows/CI/badge.svg" alt="CI"></a>
+<a href="https://github.com/MeaFew/Foresight/actions"><img src="https://github.com/MeaFew/Foresight/workflows/CI/badge.svg" alt="CI"></a>
 <a href="https://meafew.github.io/foresight/"><img src="https://img.shields.io/badge/pages-live-blue?logo=githubpages&logoColor=white" alt="GitHub Pages"></a>
 
 </div>
@@ -94,7 +94,7 @@ Dashboard ──> Forecast comparison, error distribution, residual analysis
 ## Quick Start
 
 ```bash
-git clone https://github.com/MeaFew/foresight.git
+git clone https://github.com/MeaFew/Foresight.git
 cd foresight
 
 # Create and activate a Python 3.11 virtual environment
@@ -258,10 +258,10 @@ For local testing without Kaggle credentials, run `python -m foresight.generate_
 
 | Project | Repo | Description |
 |---------|------|-------------|
-| E-commerce User Analytics | [MeaFew/shoplytics](https://github.com/MeaFew/shoplytics) | 29M real user behavior records, 10 analytical modules |
-| Marketing Attribution & MMM | [MeaFew/attributor](https://github.com/MeaFew/attributor) | MMM + multi-touch attribution + budget optimization |
-| Credit Risk Scoring | [MeaFew/riskscore](https://github.com/MeaFew/riskscore) | WOE/IV + XGBoost/LightGBM + SHAP interpretability |
-| GNN Fraud Detection | [MeaFew/graphguard](https://github.com/MeaFew/graphguard) | GraphSAGE + GNNExplainer on graph-structured fraud data |
+| E-commerce User Analytics | [MeaFew/shoplytics](https://github.com/MeaFew/Shoplytics) | 29M real user behavior records, 10 analytical modules |
+| Marketing Attribution & MMM | [MeaFew/attributor](https://github.com/MeaFew/Attributor) | MMM + multi-touch attribution + budget optimization |
+| Credit Risk Scoring | [MeaFew/riskscore](https://github.com/MeaFew/RiskScore) | WOE/IV + XGBoost/LightGBM + SHAP interpretability |
+| GNN Fraud Detection | *planned* | GraphSAGE + GNNExplainer on graph-structured fraud data |
 
 ## License
 

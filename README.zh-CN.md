@@ -11,10 +11,10 @@
 <img src="https://img.shields.io/badge/python-3.11-blue?logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/PyTorch-2.1-red?logo=pytorch&logoColor=white" alt="PyTorch">
 <img src="https://img.shields.io/badge/Lightning-2.0-purple?logo=pytorchlightning&logoColor=white" alt="PyTorch Lightning">
-<a href="https://github.com/MeaFew/foresight/actions"><img src="https://github.com/MeaFew/foresight/workflows/CI/badge.svg" alt="CI"></a>
+<a href="https://github.com/MeaFew/Foresight/actions"><img src="https://github.com/MeaFew/Foresight/workflows/CI/badge.svg" alt="CI"></a>
 
 🏠 **主仓：<a href="https://gitee.com/zeroonei1/foresight">Gitee</a>** &nbsp;|&nbsp;
-🔗 <a href="https://github.com/MeaFew/foresight">GitHub（自动同步）</a>
+🔗 <a href="https://github.com/MeaFew/Foresight">GitHub（自动同步）</a>
 
 </div>
 
@@ -106,7 +106,7 @@
 git clone https://gitee.com/zeroonei1/foresight.git
 
 # 或从 GitHub
-git clone https://github.com/MeaFew/foresight.git
+git clone https://github.com/MeaFew/Foresight.git
 
 cd foresight
 
@@ -212,10 +212,10 @@ LSTM 接近 XGBoost（MAE 差 0.012），Transformer 稍逊。改进方向：DL 
 
 | 项目 | Gitee（主仓） | GitHub（镜像） |
 |------|---------------|-----------------|
-| 电商用户行为分析 | [Gitee](https://gitee.com/zeroonei1/shoplytics) | [GitHub](https://github.com/MeaFew/shoplytics) |
-| 营销归因与预算优化 | [Gitee](https://gitee.com/zeroonei1/attributor) | [GitHub](https://github.com/MeaFew/attributor) |
-| 信用风险评分 | [Gitee](https://gitee.com/zeroonei1/riskscore) | [GitHub](https://github.com/MeaFew/riskscore) |
-| 图神经网络反欺诈 | [Gitee](https://gitee.com/zeroonei1/graphguard) | [GitHub](https://github.com/MeaFew/graphguard) |
+| 电商用户行为分析 | [Gitee](https://gitee.com/zeroonei1/shoplytics) | [GitHub](https://github.com/MeaFew/Shoplytics) |
+| 营销归因与预算优化 | [Gitee](https://gitee.com/zeroonei1/attributor) | [GitHub](https://github.com/MeaFew/Attributor) |
+| 信用风险评分 | [Gitee](https://gitee.com/zeroonei1/riskscore) | [GitHub](https://github.com/MeaFew/RiskScore) |
+| 图神经网络反欺诈 | 规划中（未建仓） |
 
 ## 许可证
 
